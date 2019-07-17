@@ -1,3 +1,5 @@
 Membuat halaman login
 Memuat tabel user
 Menyiapkan halaman administrator
+Membuat menu administrator
+Membuat breadcrumbs
